@@ -1,7 +1,7 @@
 package com.vrstressroom.androidbootcamp.AndroidBootCamp
 
 
-fun Main(){
+fun main(){
     var sehir: String = "Ankara"
     var ulke: String = "Türkiye"
     var telefon: String = "0501 101 00 00"
@@ -49,7 +49,7 @@ fun Main(){
     var faturaAdresi: String = "Trabzon Trabzonlular Ilcesi Trabzonu Sevenler Mahhlesi 61.Sokak Trabzonlular APT."
 
 
-        print(
+    print(
             "sehir: ${sehir}\n" +
                     "ulke: ${ulke}\n" +
                     "telefon: ${telefon}\n" +
